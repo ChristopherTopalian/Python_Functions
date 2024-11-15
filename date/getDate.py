@@ -3,10 +3,10 @@
 import datetime as dt
 
 def getDate():
-    today = dt.date.today()
-    return today
+    currentDate = dt.date.today()
+    return currentDate
 
-##
+####
 
 if __name__ == '__main__':
     print(getDate())
