@@ -5,7 +5,7 @@ An Easy to Use Library of Python Functions
 # date
 * ## [getDate](date/getDate.py)
 * ## [getDayOfMonth](date/getDayOfMonth.py)
-* ## [getDayOfWeek](date/getDayOfWeek.py)
+* ## [getDayOfWeek](date/getDayOfWeekName.py)
 
 ----
 
