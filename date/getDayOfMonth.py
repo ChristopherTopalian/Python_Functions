@@ -3,7 +3,7 @@
 import datetime as dt
 
 def getDayOfMonth():
-    currentDate = dt.datetime.now()
+    currentDate = dt.datetime.today()
     dayNumber = currentDate.day
     return dayNumber
 
