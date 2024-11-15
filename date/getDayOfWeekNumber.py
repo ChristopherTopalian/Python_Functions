@@ -22,11 +22,11 @@ if __name__ == '__main__':
     print(getDayOfWeekNumber())
     input('')
 
+####
+
 '''
 4, if wednesday
 '''
-
-##
 
 # Dedicated to God the Father
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2024
