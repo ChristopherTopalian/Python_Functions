@@ -8,9 +8,9 @@ def getDate():
 
 ##
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     print(getDate())
-    input("Press Enter to Exit")
+    input('')
 
 ####
 
@@ -23,4 +23,3 @@ if __name__ == "__main__":
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
-
