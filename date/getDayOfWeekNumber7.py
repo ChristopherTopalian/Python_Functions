@@ -3,17 +3,17 @@
 import datetime as dt
 
 def getDayOfWeekNumber7():
-    now = dt.datetime.now()
+    currentDate = dt.datetime.today()
 
     # monday is 0, sunday is 6
-    dayOfWeekNumber = now.weekday()
+    dayOfWeekNumber = currentDate.weekday()
 
     # adjust so that monday is 1, sunday is 7
     dayOfWeekNumberAdjusted = dayOfWeekNumber + 1
 
     return dayOfWeekNumberAdjusted
 
-##
+####
 
 if __name__ == '__main__':
     print(getDayOfWeekNumber7())
@@ -30,4 +30,3 @@ if __name__ == '__main__':
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
-
