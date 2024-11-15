@@ -3,7 +3,7 @@
 import datetime as dt
 
 def getDayOfWeekName():
-    currentDate = dt.datetime.now()
+    currentDate = dt.datetime.today()
 
     # 0 is Monday, 6 is Sunday
     dayOfWeek = currentDate.weekday()
