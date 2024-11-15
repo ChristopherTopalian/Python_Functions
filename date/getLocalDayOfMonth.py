@@ -1,15 +1,15 @@
-# getLocalDay.py
+# getLocalDayOfMonth.py
 
 import time
 
-def getLocalDay():
-    localDay = time.localtime().tm_mday
-    return localDay
+def getLocalDayOfMonth():
+    localDayOfMonth = time.localtime().tm_mday
+    return localDayOfMonth
 
 ####
 
 if __name__ == '__main__':
-    print(getLocalDay())
+    print(getLocalDayOfMonth())
     input('')
 
 ####
@@ -23,4 +23,3 @@ if __name__ == '__main__':
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
-
