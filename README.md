@@ -9,5 +9,5 @@ An Easy to Use Library of Python Functions
 ----
 
 # date_time
-## [getDateTime12](date_time/getDateTime12.py)
+* ## [getDateTime12](date_time/getDateTime12.py)
 
