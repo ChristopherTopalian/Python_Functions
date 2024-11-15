@@ -3,12 +3,12 @@
 import datetime as dt
 
 def getMonthNumber():
-    currentDate = dt.datetime.now()
+    currentDate = dt.datetime.today()
 
     # 1 is Jan, 12 is December
-    month = currentDate.month
+    monthNumber = currentDate.month
 
-    return month
+    return monthNumber
 
 ####
 
@@ -27,4 +27,3 @@ if __name__ == '__main__':
 # https://github.com/ChristopherTopalian
 # https://github.com/ChristopherAndrewTopalian
 # https://sites.google.com/view/CollegeOfScripting
-
