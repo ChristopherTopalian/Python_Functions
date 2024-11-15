@@ -8,6 +8,8 @@ An Easy to Use Library of Python Functions
 * ## [getDayOfWeekName](date/getDayOfWeekName.py)
 * ## [getDayOfWeekNumber](date/getDayOfWeekNumber.py)
 * ## [getDayOfWeekNumber7](date/getDayOfWeekNumber7.py)
+* ## [getYearMonthDay](date/getYearMonthDay.py)
+* ## [getMonthDayYear](date/getMonthDayYear.py)
 
 ----
 
