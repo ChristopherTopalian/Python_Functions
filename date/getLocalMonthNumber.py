@@ -3,8 +3,8 @@
 import time
 
 def getLocalMonthNumber():
-    localMonth = time.localtime().tm_mon
-    return localMonth
+    localMonthNumber = time.localtime().tm_mon
+    return localMonthNumber
 
 ####
 
