@@ -27,8 +27,6 @@ if __name__ == '__main__':
 11-01-24 05:03 PM
 '''
 
-##
-
 # Dedicated to God the Father
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2024
 # https://github.com/ChristopherTopalian
