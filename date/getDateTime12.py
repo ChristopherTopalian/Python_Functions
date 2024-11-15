@@ -6,7 +6,7 @@ def getDateTime12():
     currentDateTime = dt.datetime.now()
 
     # formatted date MM-DD-YY
-    date = currentDateTime.strftime("%m-%d-%y")
+    date = currentDateTime.strftime('%m-%d-%y')
 
     # formatted time HH:MM AM/PM
     time = currentDateTime.strftime('%I:%M %p')
