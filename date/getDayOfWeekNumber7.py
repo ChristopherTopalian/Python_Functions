@@ -19,11 +19,11 @@ if __name__ == '__main__':
     print(getDayOfWeekNumber7())
     input('')
 
+####
+
 '''
 3, if today is wednesday
 '''
-
-##
 
 # Dedicated to God the Father
 # All Rights Reserved Christopher Andrew Topalian Copyright 2000-2024
