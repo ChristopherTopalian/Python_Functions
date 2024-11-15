@@ -10,7 +10,7 @@ def getDate():
 
 if __name__ == "__main__":
     print(getDate())
-    input('')
+    input("Press Enter to Exit")
 
 ####
 
