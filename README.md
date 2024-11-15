@@ -1,4 +1,6 @@
 # Python_Functions
 An Easy to Use Library of Python Functions
-
-# [getDate](date/getDate.py)
+----  
+DATE
+## [getDate](date/getDate.py)
+## [getDayOfMonth](date/getDayOfMonth.py)
